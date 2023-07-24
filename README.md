@@ -1,7 +1,7 @@
 
 # Spreadit - A Modern Fullstack Reddit Clone 
 
-![Spreadit](https://github.com/[rohit4242]/[Spreadit]/blob/[main]/public/Home_page.png?raw=true)
+![Spreadit](https://github.com/rohit4242/Spreadit/blob/main/public/Home_page.png?raw=true)
 
 
 Built with the Next.js App Router, TypeScript & Tailwind
